@@ -21,8 +21,8 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 
 
-<!-- Default Statcounter code for M-helmy.github.io
-https://m-helmy.github.io/ -->
+<!-- Default Statcounter code for mohelmys.github.io
+https://mohelmys.github.io/ -->
 <script type="text/javascript">
 var sc_project=12067870; 
 var sc_invisible=1; 
