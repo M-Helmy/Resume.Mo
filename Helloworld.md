@@ -8,7 +8,7 @@ bigimg: /img/desk.jpg
 <meta name="theme-color" content="#ffd6008c" />            
 
 <h2 style="text-align:center;">Software Engineer</h2>
-<p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
+<p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and hell<br> yeah Foodie. Currently Working @Swenson He </p>
 
 
@@ -16,7 +16,7 @@ bigimg: /img/desk.jpg
 • Mobile: (+2) 0100 5759 130<br/>
 • Skype ID: mohamed.helmys<br/>
 • Email:**<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br/>
-• Check my **<a href="https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf" target="_blank">CV <i class="fa fa-spinner fa-pulse fa-1x fa-fw" aria-hidden="true"></i></a>**<br/> 
+• Check my **<a href="https://mohelmys.github.io/resources/Mo.Helmy-CV.pdf" target="_blank">CV <i class="fa fa-spinner fa-pulse fa-1x fa-fw" aria-hidden="true"></i></a>**<br/> 
  
 
 ### QUALIFICATIONS PROFILE<br/>
@@ -42,7 +42,7 @@ More than 7 years of Drupal 7/8 CMS Development experience with proven backgroun
 - Accomplished communicator skilled in building and strengthening relationships with cross-functional teams and meeting tough deadlines.
 - Sharp and adaptive; able to quickly learn and master new concepts, procedures, and technologies.
 
-For more info contact me here: [github.io/contact](https://m-helmy.github.io/contact)<br>
+For more info contact me here: [github.io/contact](https://mohelmys.github.io/contact)<br>
 
 
 ***Core Technologies***<br/> 
@@ -90,7 +90,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
 
 
-### For Work Experince: <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a>
+### For Work Experince: <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a>
 
 
 
@@ -99,19 +99,19 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <center><h3>Projects:</h3></center>
 
 <center><h5><span style="background-color: #FFFF00"> Delivered </span></h5></center>
-<center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/logosmall.png" alt="Mst-ct.com"></a><br/>
+<center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/logosmall.png" alt="Mst-ct.com"></a><br/>
 <br/>
 <center><h5><span style="background-color: #FFFF00">Website is Under Construction (2020)</span></h5></center>
-<center><a href="http://jeraneg.com/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/Jeraneg_logo.png" style="max-width:20%;" alt="Jeraneg"></a>  
+<center><a href="http://jeraneg.com/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Jeraneg_logo.png" style="max-width:20%;" alt="Jeraneg"></a>  
 
 <center><h5><span style="background-color: #FFFF00">Mobile App Website is Under Construction (2020)</span></h5></center>
-<center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/FitnessGarage.png" style="max-width:10%;" alt="FitnessGarage"></a>  
+<center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:10%;" alt="FitnessGarage"></a>  
 
 
 
 
-<!-- Default Statcounter code for M-helmy.github.io
-https://m-helmy.github.io/ -->
+<!-- Default Statcounter code for mohelmys.github.io
+https://mohelmys.github.io/ -->
 <script type="text/javascript">
 var sc_project=12067870; 
 var sc_invisible=1; 
