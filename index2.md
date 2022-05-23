@@ -7,7 +7,7 @@ bigimg: /img/desk.jpg
 <meta name="theme-color" content="#ffd6008c" />            
 
 <h2 style="text-align:center;">Software Engineer</h2>
-<p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://m-helmy.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p>
+<p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/linkedin.jpg" alt="LinkedIn Add to Profile button"></a></p>
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and hell<br> yeah Foodie. Currently Working @MST </p>
 
 
@@ -15,7 +15,7 @@ bigimg: /img/desk.jpg
 • Mobile: (+2) 0100 5759 130<br/>
 • Skype ID: mohamed.helmys<br/>
 • Email: **<a href="mailto: Helmy@4myinnervoice.com"> Helmy@4myinnervoice.com</a>**<br/>
-• [**CV**] (https://m-helmy.github.io/resources/Mo.Helmy-CV.pdf) 
+• [**CV**] (https://mohelmys.github.io/resources/Mo.Helmy-CV.pdf) 
 
 
 ### QUALIFICATIONS PROFILE<br/>
