@@ -10,8 +10,8 @@ bigimg: /img/desk.jpg
 <h2 style="text-align:center;">Software Engineer</h2>
 <p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
 
-<p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and hell<br> yeah Foodie. 
- Currently Working @Swenson He </p>
+[comment]: <><p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and hell<br> yeah Foodie. 
+[comment]: <> Currently Working @Swenson He </p>
 
 
 {: .box-warning}
