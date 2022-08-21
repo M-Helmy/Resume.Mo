@@ -12,11 +12,11 @@ bigimg: /img/desk.jpg
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and hell<br> yeah Foodie. Currently Working @Swenson He </p>
 
 
-{: .box-warning}
-• Mobile: (+2) 0100 5759 130<br/>
-• Skype ID: mohamed.helmys<br/>
-• Email:**<a href="mailto: mohamed.halmey@gmail.com"> mohamed.halmey@gmail.com</a>**<br/>
-• Check my **<a href="https://mohelmys.github.io/resources/Mo.Helmy-CV.pdf" target="_blank">CV <i class="fa fa-spinner fa-pulse fa-1x fa-fw" aria-hidden="true"></i></a>**<br/> 
+[comment]: <>{: .box-warning}
+[comment]: <>• Mobile: (+2) 0100 5759 130<br/>
+[comment]: <>• Skype ID: mohamed.helmys<br/>
+[comment]: <>• Email:**<a href="mailto: mohamed.halmey@gmail.com"> mohamed.halmey@gmail.com</a>**<br/>
+[comment]: <>• Check my **<a href="https://mohelmys.github.io/resources/Mo.Helmy-CV.pdf" target="_blank">CV <i class="fa fa-spinner fa-pulse fa-1x fa-fw" aria-hidden="true"></i></a>**<br/> 
  
 
 ### QUALIFICATIONS PROFILE<br/>
