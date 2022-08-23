@@ -15,8 +15,6 @@ Currently Working @Swenson He </p>
 
 
 {: .box-warning}
-<p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and am yeah Foodie.<br> 
- Currently Working @Swenson He
 • Mobile: (+2) 0100 5759 130<br/>
 • Skype ID: mohamed.helmys<br/>
 • Email:**<a href="mailto: mohamed.halmey@gmail.com"> mohamed.halmey@gmail.com</a>**<br/>
