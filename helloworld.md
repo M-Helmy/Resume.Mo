@@ -110,8 +110,6 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:10%;" alt="FitnessGarage"></a>
 
 
-
-
 <!-- Default Statcounter code for mohelmys.github.io
 https://mohelmys.github.io/ -->
 <script type="text/javascript">
