@@ -1,7 +1,6 @@
 resources/*.pdf
 resources/Mo.Helmy-CV.pdf
 
-1
 # project
 _site
 .sass-cache
