@@ -8,7 +8,7 @@ bigimg: /img/desk.jpg
 <meta name="theme-color" content="#ffd6008c" />            
 
 <h2 style="text-align:center;">Software Engineer</h2>
-<p style="text-align:center;"><a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
+<p style="text-align:center;"><a href="https://linkedin.com/in/mohelmym" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a></p>
 
 <p align="center"> Full Stack Web Developer, Dribbbler, Philanthropist, Technology Evangelist,<br>Forced Blogger, UI Baker, Geek and am yeah Foodie.<br> 
 Currently Working @Swenson He </p>
@@ -92,7 +92,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
 
 
-### For Work Experince: <a href="https://www.linkedin.com/in/mohamedhelmy/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a>
+### For Work Experince: <a href="https://linkedin.com/in/mohelmym" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Linkedinlogo.png" alt="LinkedIn Add to Profile button"></a>
 
 
 
@@ -126,3 +126,4 @@ class="statcounter"
 src="https://c.statcounter.com/12067870/0/e9873027/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
+
