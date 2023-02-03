@@ -34,7 +34,7 @@ More than 7 years of Drupal 7/8 CMS Development experience with proven backgroun
 - Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.<br>
 - Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.<br>
 - Newbie in JSX at React.js / Babel.js / Node.js<br>
-- New year resolution 2023 working on Container Orchestration <span> style="background-color: #006eff"> (Kubernetes - K8s) </center> with Coursera Track Architecting with Google Kubernetes Engine Specialization <br>
+- New year resolution 2023 working on Container Orchestration <span> style="background-color: #006eff"> (Kubernetes - K8s) </span> with Coursera Track Architecting with Google Kubernetes Engine Specialization <br>
 
 **Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>**
 
