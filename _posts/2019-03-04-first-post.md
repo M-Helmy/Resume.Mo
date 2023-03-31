@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why D8!
+title: 💧 Why D8!
 image: /img/D8.jpg
 ---
 

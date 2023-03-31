@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Headless Drupal
+title: 💧 Headless Drupal
 subtitle: by AgileDrop
 image: /img/logo-headless-drupal1.png
 bigimg: /img/Drupal8.jpg
