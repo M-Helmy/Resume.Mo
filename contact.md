@@ -11,7 +11,7 @@ bigimg: /img/SkyLine.jpg
 
 Find me on the following channels:
 
-- <a href="https://www.linkedin.com/in/mohamedhelmy" target="_blank">LinkedIn</a> 🔗
+- <a href="https://www.linkedin.com/in/mohelmym/" target="_blank">LinkedIn</a> 🔗
 - <a href="http://twitter.com/MHelmyMashali" target="_blank">Twitter</a> 🔗
 - <a href="https://github.com/MoHelmys" target="_blank">GitHub</a> 🔗
 - <a href="https://medium.com/@MohamedHelmyMashali" target="_blank">Medium</a> 🔗
