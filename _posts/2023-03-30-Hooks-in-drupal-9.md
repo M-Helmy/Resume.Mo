@@ -2,7 +2,7 @@
 layout: post
 title: 💧 How to explain Hooks in Drupal for 10 years old child
 subtitle: by Mohamed Helmy
-image: /img/pepole.png
+image: /img/pepole.jpg
 bigimg: /img/Drupal-gold.jpg
 ---
 
