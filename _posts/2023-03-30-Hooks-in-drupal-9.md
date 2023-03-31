@@ -3,7 +3,7 @@ layout: post
 title: 💧 How to explain Hooks in Drupal for 10 years old child
 subtitle: by Mohamed Helmy
 image: /img/pepole.png
-bigimg: /img/Drupal-on-an-Ubuntu.jpg
+bigimg: /img/Drupal-gold.jpg
 ---
 
 ## Hooks <br/>
