@@ -46,12 +46,13 @@ More than 7 years of Drupal 7/8 CMS Development experience with proven backgroun
 For more info contact me here: [github.io/contact](https://mohelmys.github.io/contact)<br>
 
 
-***Core Technologies***<br/> 
+**⚙️ Core Technologies :** <br/> 
 **Environments:**<br/>
-JavaScript, Php, Java, C, C++, Python, HTML5/CSS3 - SQL Data Modeller Oracle & Microsoft.
+Php, Java, C, C++, Python, JavaScript, HTML5/CSS3, SASS - UML- SQL Data Modeller Oracle & Microsoft.
 
 **Tools:**<br/>
-Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platform, IBM Rational tools, Bitbucket & Git, Trello & Jira.
+Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platform, IBM Rational tools.
+Git & GitHub & Bitbucket, Trello & Jira.
 
 **Methodologies:**<br/>
 Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7,8.
@@ -71,7 +72,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   HICIS - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
-**Certifications**
+**📃Certifications**
 * Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
 * Udacity & Google Scholarship - Front-End Web Developer with JavaScript,Html/CSS
 * PMI Project Management Professional (PMP)
@@ -82,7 +83,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Microsoft Certified Systems Administrator (MCSA)
 * Cisco Certified Network Associate (CCNA)    
 
-**Associations**
+**📅 Associations**
 * Irish Computer Society 2016
 * Alexandria Toastmasters International Club 2015
 * Associate Member British Computer Society (AMBCS) 2014
