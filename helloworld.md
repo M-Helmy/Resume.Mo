@@ -22,8 +22,8 @@ Currently Working @Swenson He </p>
  
 
 ### QUALIFICATIONS PROFILE<br/>
-Talented Full Stack Web Developer with Self-Motivated Attitude,
-More than 7 years of Drupal 7/8 CMS Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
+Talented Software Engineer with Self-Motivated Attitude,
+More than 10 years of Software/Web Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **📚 On Stack:**<br>
 - Experience Site Builder and a developer working in Drupal (both 7 and 8)<br>
