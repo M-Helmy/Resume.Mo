@@ -23,7 +23,7 @@ Currently Working @Swenson He </p>
 
 ### QUALIFICATIONS PROFILE<br/>
 Talented Software Engineer with Self-Motivated Attitude,
-More than 10 years of Software/Web Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
+With a solid background in Software/Web Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **📚 On Stack:**<br>
 - Experience Site Builder and a developer working in Drupal (both 7 and 8)<br>
