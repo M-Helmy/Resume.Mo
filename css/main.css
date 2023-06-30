@@ -274,12 +274,16 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 7px #ffd600 solid;
+  border-top: 32px #ffd600 solid;
   margin-top: 50px;
   font-size: 14px;
   /* background-color: {{ site.footer-col }}; */
   background-image: url(/img/Yellow-links.png); /* --- Added by helmy --- */
   filter: drop-shadow(2px 2px 6px black); /* --- Added by helmy --- */
+  background-position: top,center;  /* --- NEW Added by helmy --- */
+    background-repeat: no-repeat;   /* --- NEW Added by helmy --- */
+    background-size: cover;  /* --- NEW Added by helmy --- */
+    clip-path: polygon(0 3rem,100% 0,100% 100%,0% 100%); /* --- NEW Added by helmy --- */
 
   
   {% if site.footer-img %}
