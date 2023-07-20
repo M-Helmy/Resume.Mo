@@ -116,15 +116,15 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 <center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:8%;" alt="FitnessGarage"></a> 
 
-{: .box-warning}
+
 <center><h5><span style="background-color: #FFFF00">Latest Projects (2023)</span></h5></center>
 
 <a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
 <a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:22%;"/> &nbsp;
-<a style="text-decoration: none" href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);">&nbsp;
+<a style="text-decoration: none" href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);"><br><br>
 
 <a style="text-decoration: none" href="https://www.swensonhe.com/" rel="nofollow" target="_blank"><img src="https://www.swensonhe.com/wp-content/uploads/2020/07/Logo_Primary_600px-1.png" style="max-width:29%;"/> &nbsp; &nbsp;
-<a href="https://www.energy.ca.gov/" rel="nofollow" target="_blank"><img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:34%;"/> <br> <br>
+<a href="https://www.energy.ca.gov/" rel="nofollow" target="_blank"><img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:34%;"/> <br> 
 
 
 <!-- Default Statcounter code for mohelmys.github.io
