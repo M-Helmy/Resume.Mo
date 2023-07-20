@@ -121,9 +121,9 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 <a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:22%;"/> &nbsp;
 <a style="text-decoration: none" href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);"><br><br>
 
-<a style="text-decoration: none" href="https://www.swensonhe.com/" rel="nofollow" target="_blank"><img src="https://www.swensonhe.com/wp-content/uploads/2020/07/Logo_Primary_600px-1.png" style="max-width:35%;"/> &nbsp; &nbsp;
-<a style="text-decoration: none" href="https://decarbhealthcare.com/" rel="nofollow" target="_blank"><img src="https://decarbhealthcare.com/images/logo.svg" style="max-width:35%;"/> &nbsp; &nbsp;
-<a style="text-decoration: none" href="https://www.energy.ca.gov/" rel="nofollow" target="_blank"><img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:35%;"/> <br> 
+<a style="text-decoration: none" href="https://www.swensonhe.com/" rel="nofollow" target="_blank"><img src="https://www.swensonhe.com/wp-content/uploads/2020/07/Logo_Primary_600px-1.png" style="max-width:30%;"/> &nbsp; &nbsp;
+<a style="text-decoration: none" href="https://decarbhealthcare.com/" rel="nofollow" target="_blank"><img src="https://decarbhealthcare.com/images/logo.svg" style="max-width:30%;"/> &nbsp; &nbsp;
+<a style="text-decoration: none" href="https://www.energy.ca.gov/" rel="nofollow" target="_blank"><img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:30%;"/> <br> 
 
 
 <!-- Default Statcounter code for mohelmys.github.io
