@@ -123,9 +123,9 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 <a href="https://www.energy.ca.gov/" rel="nofollow" target="_blank"><img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:45%;"/> <br> <br>
 
-<center><a href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:25%;width: 150px;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
+<a href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:25%;width: 150px;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
 <a href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:25%;"/> &nbsp;
-<a href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;width: 150px;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);"></center> &nbsp;
+<a href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;width: 150px;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);">&nbsp;
 
 
 
