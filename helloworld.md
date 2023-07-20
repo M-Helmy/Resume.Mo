@@ -22,8 +22,8 @@ Currently Working @Swenson He </p>
  
 
 ### QUALIFICATIONS PROFILE<br/>
-Talented web/software engineer with Self-Motivated Attitude,
-I possess a robust grounding in Web Development/Software Engineering experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
+Talented Software Engineer/Web Developer with self-motivated attitude,
+I possess a robust grounding in Software Engineering/Web Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **📚 On Stack:**<br>
 - Experience Site Builder and a developer working in Drupal (both 7 and 8)<br>
@@ -72,7 +72,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
   HICIS - Alexandria University<br/>
   Alexandria, Egypt<br/>
 
-**📃Certifications**
+**📃 Certifications**
 * Udacity Nanodegree Scholarship - Full-Stack Web Developer with Python.
 * Udacity & Google Scholarship - Front-End Web Developer with JavaScript,Html/CSS
 * PMI Project Management Professional (PMP)
@@ -83,7 +83,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Microsoft Certified Systems Administrator (MCSA)
 * Cisco Certified Network Associate (CCNA)    
 
-**📅 Associations**
+**📃 Associations**
 * Irish Computer Society 2016
 * Alexandria Toastmasters International Club 2015
 * Associate Member British Computer Society (AMBCS) 2014
@@ -116,16 +116,15 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 <center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:8%;" alt="FitnessGarage"></a> 
 
-
+{: .box-warning}
 <center><h5><span style="background-color: #FFFF00">Latest Projects (2023)</span></h5></center>
+
+<a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
+<a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:22%;"/> &nbsp;
+<a style="text-decoration: none" href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);">&nbsp;
 
 <a style="text-decoration: none" href="https://www.swensonhe.com/" rel="nofollow" target="_blank"><img src="https://www.swensonhe.com/wp-content/uploads/2020/07/Logo_Primary_600px-1.png" style="max-width:29%;"/> &nbsp; &nbsp;
 <a href="https://www.energy.ca.gov/" rel="nofollow" target="_blank"><img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:34%;"/> <br> <br>
-
-<a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
-<a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:25%;"/> &nbsp;
-<a href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;width: 150px;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);">&nbsp;
-
 
 
 <!-- Default Statcounter code for mohelmys.github.io
