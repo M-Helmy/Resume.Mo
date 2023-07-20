@@ -100,14 +100,40 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 <center><h3>Projects:</h3></center>
 
+
+
+
+
+
 <center><h5><span style="background-color: #FFFF00"> Delivered </span></h5></center>
+
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/logosmall.png" alt="Mst-ct.com"></a><br/>
+
 <br/>
+
 <center><h5><span style="background-color: #FFFF00">Website is Under Construction (2023)</span></h5></center>
+
 <center><a href="http://jeraneg.co/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Jeraneg_logo.png" style="max-width:20%;" alt="Jeraneg"></a>  
 
 <center><h5><span style="background-color: #FFFF00">Mobile App Website is Under Construction (2023)</span></h5></center>
-<center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:10%;" alt="FitnessGarage"></a> 
+
+<center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:8%;" alt="FitnessGarage"></a> 
+
+
+
+<center><h5><span style="background-color: #FFFF00">Latest Projects (2023)</span></h5></center>
+
+<img src="https://www.swensonhe.com/wp-content/uploads/2020/07/Logo_Primary_600px-1.png" style="max-width:15%;"/> <br>
+
+<img src="https://www.energy.ca.gov/sites/default/files/california-energy-commission-logo_0.png" style="max-width:20%;"/> <br>
+
+<center>
+<img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:15%;"/> &nbsp; <br>
+<img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:15%;"/> &nbsp;
+<img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;"/> &nbsp;
+
+</center>
+
 
 
 <!-- Default Statcounter code for mohelmys.github.io
