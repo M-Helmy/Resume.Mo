@@ -88,7 +88,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Alexandria Toastmasters International Club 2015
 * Associate Member British Computer Society (AMBCS) 2014
 * Association of Computing Machinery (ACM), 2014
-* Rotaract Club of Alexandria West – Egypt District #2450, 2009
+* Rotaract Club of Alexandria Metropolitan/West/New Era – Egypt District #2450, 2009
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
 
 
@@ -105,7 +105,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 
 
-<center><h5><span style="background-color: #FFFF00">Website is Under Construction (2023)</span></h5></center>
+<center><h5><span style="background-color: #FFFF00">Websites Under Construction (2023)</span></h5></center>
 
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/logosmall.png" alt="Mst-ct.com"></a><br>
 
