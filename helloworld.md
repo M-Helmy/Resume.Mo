@@ -92,7 +92,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 * Institute of Electrical and Electronics Engineers (IEEE), 2008
 
 
-### 👨‍💻 For Some Stack Experince: <a href="https://linkedin.com/in/mohelmym](https://stackoverflow.com/users/6100705/euclid-h" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Stacklogo.png" alt="LinkedIn Add to Profile button"></a>
+### 👨‍💻 For Some Stack Experince: <a href="https://stackoverflow.com/users/6100705/euclid-h" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Stacklogo.png" alt="LinkedIn Add to Profile button"></a>
 
 
 
