@@ -26,14 +26,14 @@ Talented Software Engineer/Web Developer with self-motivated attitude,
 I possess a robust grounding in Software Engineering/Web Development experience with proven background successfully managing all facets of development from initial design and architecture to site deployment and client management.
 
 **📚 On Stack:**<br>
-- Experience Site Builder and a developer working in Drupal (both 7 and 8)<br>
+- Experience Site Builder and a developer working in Drupal (7/8/9/10)<br>
 - Database administration and management of a hosting environment<br>
 - Domain (DNS) Management<br>
 - Composer/CLI, Drush, Version Control with GitLab, GitHub, Bitbucket.<br>
 - Understanding of agile/scrum process (experience in working with JIRA)<br>
 - Theming and production of user interface experience with focus on customer usability through utilization of Drupal Javascript, Ajax behaviours and core templating engine or reuse of themes.<br>
 - Delivering & Deployment of Drupal as “Drupal installation profiles” and features / configuration management.<br>
-- New year resolution 2023 working on Container Orchestration <span style="background-color: #3371e3;color:White;font-weight:bold;"> K8s: Kubernetes </span> with Coursera Track (Architecting with Google <a href="https://kubernetes.io/"> Kubernetes </a> Engine Specialization) <br>
+- New year resolution 2024 working on Container Orchestration <span style="background-color: #3371e3;color:White;font-weight:bold;"> K8s: Kubernetes </span> with Coursera Track (Architecting with Google <a href="https://kubernetes.io/"> Kubernetes </a> Engine Specialization) <br>
 
 **Technically sophisticated professional offering hands-on experience in Web Development, Software Engineering and Systems Analysis;<br/>**
 
@@ -55,7 +55,7 @@ Microsoft Office Suite, SQL & NoSQL Servers and IBM BigInsights Software Platfor
 Git & GitHub & Bitbucket, Trello & Jira.
 
 **Methodologies:**<br/>
-Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7,8.
+Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & Design using UML and Agile System Development Life Cycle, Content Management System (CMS) using Drupal 7/8/9/10.
 
 ### 🎓 EDUCATION AND CREDENTIALS
 -  **Master of Science Degree in Computer Science** *2019 - Present*<br/>
@@ -105,17 +105,17 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 
 
-<center><h5><span style="background-color: #FFFF00">Websites Under Construction (2023)</span></h5></center>
+<center><h5><span style="background-color: #FFFF00">Websites Under Construction (2024)</span></h5></center>
 
 <center><a href="http://mst-ct.com/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/logosmall.png" alt="Mst-ct.com"></a><br>
 
 <center><a href="http://jeraneg.co/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/Jeraneg_logo.png" style="max-width:15%;" alt="Jeraneg"></a><br><br>   
 
-<center><h5><span style="background-color: #FFFF00">Mobile App Website is Under Construction (2023)</span></h5></center>
+<center><h5><span style="background-color: #FFFF00">Mobile App Website is Under Construction (2024)</span></h5></center>
 
 <center><a href="https://fitnessgarage.app/" rel="nofollow" target="_blank"><img src="https://mohelmys.github.io/img/FitnessGarage.png" style="max-width:8%;" alt="FitnessGarage"></a><br><br>  
 
-<center><h5><span style="background-color: #FFFF00">Latest Projects (2023)</span></h5></center>
+<center><h5><span style="background-color: #FFFF00">Latest Projects (2024)</span></h5></center>
 
 <a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/TechSoupRWD/ui/images/tslogo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
 <a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:22%;"/> &nbsp;
