@@ -1,23 +1,25 @@
 ---
 layout: post
-title: 💧 How to explain Hooks in Drupal for 10 years old child
+title: 💧 Drupal 10 Module Development Book
 subtitle: by Mohamed Helmy
-image: /img/people.png
+image: /img/drupal_10_module_development_3d.png
 bigimg: /img/Drupal-gold.jpg
 ---
 
 ## Hooks <br/>
 
-Hooks in Drupal are like special tools that can help you change the way your website works. Imagine you have a toy car that can drive forward and backward,<br/> 
-but you want to add a button to make it honk a horn.<br/> 
-You can use a hook to add that button to your toy car!<br/>
+Imagine building extra features for your Drupal website, like adding a custom login portal or creating a members-only forum. 
+That's the magic of Drupal module development! It's like giving your website superpowers, and Drupal 10 makes it easier than ever.
 
-In Drupal, hooks are little bits of code that you can add to your website to change how it looks or behaves. They allow you to add new features, modify existing ones, and even change the way Drupal itself works.<br/>
+Think of modules like Lego blocks for your site. You snap them together, each one adding a special function. 
+Want a contact form that sends you notifications by SMS? Boom, there's a module for that. 
+Need a calendar to display upcoming events? Another module! Modules can handle anything from simple tasks to complex workflows.
 
-For example, let's say you want to change the way your website displays a certain type of content. You can use a hook to tell Drupal to use a different template or layout for that content.<br/>
-Or, if you want to add a new field to a content type,<br/>
-you can use a hook to create that field and add it to the content type.<br/>
+So, whether you're a seasoned developer or just starting out, Drupal 10 module development book is an exciting adventure. 
+You can unleash your creativity, build amazing features, and make your website truly unique. Remember, with a little code and a sprinkle of imagination, the possibilities are endless!
+
+So, go forth and build something awesome! 
+Remember, Drupal 10 is your canvas, and modules are your paintbrush.<br/>
 
 {: .box-error}
-Hooks are a powerful tool for developers, but they can also be a bit tricky to use.<br/> 
-It's important to have a good understanding of how Drupal works and how to write code in PHP to use hooks effectively.<br/>
+Have fun and happy coding!<br/> 
