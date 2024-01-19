@@ -6,7 +6,7 @@ image: /img/drupal_10_module_development_3d.png
 bigimg: /img/Drupal-gold.jpg
 ---
 
-## Hooks <br/>
+## Dive Deep in Drupal 10 with Daniel Sipos  <br/>
 
 Imagine building extra features for your Drupal website, like adding a custom login portal or creating a members-only forum. 
 That's the magic of Drupal module development! It's like giving your website superpowers, and Drupal 10 makes it easier than ever.
