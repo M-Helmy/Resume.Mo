@@ -1,6 +1,8 @@
 # HelloWorld Project
 
 ![Project Banner](https://mohelmys.github.io/img/log.png) <!-- Optional: Replace with a real image if available -->
+![Project Banner](https://github.com/MoHelmys/MoHelmys.github.io/blob/master/img/SkyLine.jpg) <!-- Optional: Replace with a real image if available -->
+
 
 Welcome to the **HelloWorld** project! This project serves as a basic template for setting up a simple website using HTML, CSS, and JavaScript. The purpose of this project is to demonstrate a foundational understanding of front-end web development.
 
