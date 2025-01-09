@@ -117,7 +117,7 @@ Software Engineering, Data Structure & Algorithm, RDBMS, OOP, System Analysis & 
 
 <center><h5><span style="background-color: #FFFF00">Latest Projects (2024)</span></h5></center>
 
-<a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.org/_layouts/15/techsouprwd/ui/images/tslogo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
+<a style="text-decoration: none" href="https://www.techsoup.org/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-logo.svg" style="max-width:25%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 2px 3px #222);"> &nbsp; <br><br>
 <a style="text-decoration: none" href="https://www.techsoup.global/" rel="nofollow" target="_blank"><img src="https://www.techsoup.global/sites/all/modules/techsoup/ts_country_selector/assets/images/techsoup-global-network.svg" style="max-width:22%;"/> &nbsp;
 <a style="text-decoration: none" href="https://www.techsoupeurope.org/" rel="nofollow" target="_blank"><img src="https://www.techsoupeurope.org/wp-content/themes/techsoup-2017/images/logo.png" style="max-width:50%;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(1px 1px 0px #000);"><br><br>
 
